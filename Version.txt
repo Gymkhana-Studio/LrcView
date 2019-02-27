@@ -1,2 +1,1 @@
-Version Code = 2;
-Version name = 2.1;
+Version Code = 2; \n Version name = 2.1;
